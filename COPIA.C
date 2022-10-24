@@ -82,3 +82,4 @@ int main(){
     fclose (archivoescritura);
     return 0; 
 }
+
